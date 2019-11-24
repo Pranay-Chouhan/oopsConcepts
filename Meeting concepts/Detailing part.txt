@@ -1,0 +1,5 @@
+1. oops cocepts
+2. Encapsulation:- employee tracking system(variables, arrays and class), Object and class description.
+  login, work and logout information of employees using static methods and without that using this keyword.
+overview of encapsulation and it's benefits like implementation hiding, data hiding using access modifiers.
+3. Inheritence:- 
